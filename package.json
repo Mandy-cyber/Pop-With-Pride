@@ -1,0 +1,21 @@
+{
+  "name": "pop-with-pride",
+  "displayName": "Pop With Pride",
+  "description": "A fun splash of pride colors for the everyday queer programmer <3",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pop With Pride",
+        "uiTheme": "vs",
+        "path": "./themes/Pop With Pride-color-theme.json"
+      }
+    ]
+  }
+}
